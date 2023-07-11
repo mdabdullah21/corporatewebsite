@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-Bold.woff2') format('woff2'), url('../fonts/Poppins-Bold.woff') format('woff');
+    src: url('../fonts/Poppins-Bold.woff2') format('woff2'),
+        url('../fonts/Poppins-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -8,7 +9,8 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-Black.woff2') format('woff2'), url('../fonts/Poppins-Black.woff') format('woff');
+    src: url('../fonts/Poppins-Black.woff2') format('woff2'),
+        url('../fonts/Poppins-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -16,7 +18,8 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-BlackItalic.woff2') format('woff2'), url('../fonts/Poppins-BlackItalic.woff') format('woff');
+    src: url('../fonts/Poppins-BlackItalic.woff2') format('woff2'),
+        url('../fonts/Poppins-BlackItalic.woff') format('woff');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -24,7 +27,8 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-BoldItalic.woff2') format('woff2'), url('../fonts/Poppins-BoldItalic.woff') format('woff');
+    src: url('../fonts/Poppins-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Poppins-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -32,7 +36,8 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-ExtraBoldItalic.woff2') format('woff2'), url('../fonts/Poppins-ExtraBoldItalic.woff') format('woff');
+    src: url('../fonts/Poppins-ExtraBoldItalic.woff2') format('woff2'),
+        url('../fonts/Poppins-ExtraBoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -40,7 +45,8 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-ExtraBold.woff2') format('woff2'), url('../fonts/Poppins-ExtraBold.woff') format('woff');
+    src: url('../fonts/Poppins-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Poppins-ExtraBold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -48,15 +54,19 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-ExtraLight.woff2') format('woff2'), url('../fonts/Poppins-ExtraLight.woff') format('woff');
+    src: url('../fonts/Poppins-ExtraLight.woff2') format('woff2'),
+        url('../fonts/Poppins-ExtraLight.woff') format('woff');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
 
+
+
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-Light.woff2') format('woff2'), url('../fonts/Poppins-Light.woff') format('woff');
+    src: url('../fonts/Poppins-Light.woff2') format('woff2'),
+        url('../fonts/Poppins-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -64,15 +74,19 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-Medium.woff2') format('woff2'), url('../fonts/Poppins-Medium.woff') format('woff');
+    src: url('../fonts/Poppins-Medium.woff2') format('woff2'),
+        url('../fonts/Poppins-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 
+
+
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-SemiBold.woff2') format('woff2'), url('../fonts/Poppins-SemiBold.woff') format('woff');
+    src: url('../fonts/Poppins-SemiBold.woff2') format('woff2'),
+        url('../fonts/Poppins-SemiBold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -80,7 +94,8 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-Regular.woff2') format('woff2'), url('../fonts/Poppins-Regular.woff') format('woff');
+    src: url('../fonts/Poppins-Regular.woff2') format('woff2'),
+        url('../fonts/Poppins-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -88,7 +103,8 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-SemiBoldItalic.woff2') format('woff2'), url('../fonts/Poppins-SemiBoldItalic.woff') format('woff');
+    src: url('../fonts/Poppins-SemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/Poppins-SemiBoldItalic.woff') format('woff');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
@@ -96,13 +112,15 @@
 
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/Poppins-Thin.woff2') format('woff2'), url('../fonts/Poppins-Thin.woff') format('woff');
+    src: url('../fonts/Poppins-Thin.woff2') format('woff2'),
+        url('../fonts/Poppins-Thin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
 }
 
 // mixin_section
+
 @mixin minwidth($width) {
     @media only screen and (min-width: $width) {
         @content;
@@ -115,6 +133,8 @@
     background-repeat: no-repeat !important;
 }
 
+
+
 * {
     box-sizing: border-box;
     padding: 0px;
@@ -122,6 +142,7 @@
 }
 
 body {
+
     font-size: 18px;
     font-family: 'Poppins';
     overflow-x: hidden !important;
@@ -132,107 +153,18 @@ ul {
     margin: 0px;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
+
+
+ul li {
+    list-style: none;
 }
 
 a {
     text-decoration: none;
-    // color: #000;
 }
 
-ul {
-    li {
-        list-style: none;
-    }
-}
-
-h1,
-.h1,
-h2,
-.h2,
-h3,
-.h3,
-h4,
-.h4,
-h5,
-.h5,
-h6,
-.h6 {
-    font-family: sans-serif;
-    line-height: 1.2;
-    // text-align: left;
-    font-weight: 700;
-}
-
-h1,
-.h1 {
-    font-size: 22px;
-}
-
-h2,
-.h2 {
-    font-size: 22px;
-}
-
-h3,
-.h3 {
-    font-size: 22px;
-}
-
-h4,
-.h4 {
-    font-size: 18px;
-}
-
-h5,
-.h5 {
-    font-size: 16px;
-}
-
-h6,
-.h6 {
-    font-size: 16px;
-}
-
-@include minwidth(992px) {
-    h1,
-    .h1 {
-        font-size: 36px;
-        margin-top: 36px;
-        margin-bottom: 20px;
-    }
-    h2,
-    .h2 {
-        font-size: 30px;
-        margin-top: 30px;
-        margin-bottom: 18px;
-    }
-    h3,
-    .h3 {
-        font-size: 25px;
-        margin-top: 28px;
-        margin-bottom: 16px;
-    }
-    h4,
-    .h4 {
-        font-size: 22px;
-        margin-top: 28px;
-        margin-bottom: 16px;
-    }
-    h5,
-    .h5 {
-        font-size: 18px;
-        margin-top: 22px;
-        margin-bottom: 16px;
-    }
-    h6,
-    .h6 {
-        font-size: 16px;
-        margin-top: 20px;
-        margin-bottom: 16px;
-    }
+img {
+    width: 100%;
 }
 
 // body_start
@@ -243,137 +175,176 @@ h6,
 }
 
 // BODY_SART
+
 .wrapper {
     // width: 1920px;
     // max-width: 100%;
-    overflow-x: hidden !important;
     width: 100%;
     margin: auto;
+
     .top_social_box {
         display: flex;
         background-color: #095dc7;
         margin: auto;
         padding: 5px 0px;
+
         a {
             color: #fff;
         }
+
         @include minwidth(570px) {
             margin: 0px;
             padding: 20px 0px;
         }
+
         .container {
             display: flex;
             flex-wrap: wrap;
             align-items: center;
+
             .socialbox {
                 margin: auto;
+
                 @include minwidth(576px) {
                     margin: 0px;
                 }
+
                 ul {
                     display: flex;
                     flex-wrap: wrap;
                     justify-content: center;
+
                     li {
                         margin-right: 20px;
                         color: #fff;
+
                     }
                 }
             }
+
             .topcontract {
                 margin-left: auto;
                 display: flex;
                 flex-wrap: wrap;
                 justify-content: center;
                 margin: auto;
+
                 @include minwidth(576px) {
                     margin-left: auto !important;
                     margin-right: 0;
                 }
+
                 p {
                     color: #fff;
                     margin-bottom: 0;
+
                     @include minwidth(429px) {
                         margin-left: 10px;
                         // text-align: center;
+
                     }
+
                 }
             }
+
         }
     }
 }
 
 // BODY_END
+
+
 .bg_imge {
     width: 100%;
     @include background_img();
+
     // opacity: 99%;
+
     .overlay {
         background-color: #095ec7e9;
+
         .maindiv {
             .nav_bar {
                 height: 60px;
                 background-color: #fff;
+
                 @include minwidth(992px) {
                     height: 90px;
                 }
+
                 a {
                     border-bottom: 2px solid #ffffff00;
+
                     &:hover {
                         border-bottom: 2px solid #095dc7;
                     }
                 }
+
                 .active {
                     color: #095dc7;
                     font-weight: 600;
                 }
+
                 #header {
                     @include minwidth(992px) {
                         display: none;
                     }
                 }
+
                 .navbar-brand {
                     width: 40px;
                     max-width: 100%;
+
                     @include minwidth(992px) {
                         width: 40px;
                     }
                 }
             }
         }
+
         .benarsliderbox {
             width: 100%;
             height: auto;
             padding-top: 30px;
             display: flex;
             flex-direction: column;
+
             @include minwidth(992px) {
                 position: relative;
                 padding-top: 100px;
             }
+
             .imagebox {
                 width: 945px;
                 max-width: 100%;
                 order: 2 !important;
                 margin-left: auto;
+
                 @include minwidth(1830px) {
+
                     position: absolute !important;
                     top: 120px;
                     right: 1px !important;
                 }
+
                 img {
                     width: 100%;
                 }
             }
+
             .container {
                 order: 1 !important;
+
+
                 @include minwidth(1830px) {
                     margin: auto;
                 }
+
                 .itembox {
                     display: flex;
                     flex-wrap: wrap;
                     justify-content: space-between;
+
                     .textbox {
                         width: 610px;
                         max-width: 100%;
@@ -381,59 +352,74 @@ h6,
                         line-height: 1;
                         text-align: center;
                         margin: auto;
+
                         @include minwidth(576px) {
                             margin: 20px auto;
                         }
+
                         @include minwidth(1830px) {
                             margin: 0px;
                             // margin-top: 158px;
                             padding-top: 150px;
                             padding-bottom: 268px;
                             text-align: start;
+
                         }
+
                         h1,
                         .h1 {
                             font-size: 22px;
                             font-weight: 500;
+
                             @include minwidth(1200px) {
-                                font-size: 72px!important;
+                                font-size: 72px;
                                 // margin-bottom: 54px;
                             }
                         }
+
                         h2,
                         .h2 {
                             font-size: 22px;
                             font-weight: 500;
                             margin: auto;
                             text-align: center;
+
                             @include minwidth(1200px) {
                                 font-size: 72px;
                                 // margin-bottom: 54px;
                             }
                         }
+
                         h6,
                         .h6 {
                             font-size: 16px;
                             margin: auto;
                             text-align: center;
                             padding-bottom: 30px;
+
                             @include minwidth(1200px) {}
                         }
+
                         p {
                             font-size: 14px;
+
                             @include minwidth(992px) {
                                 font-size: 16px;
                                 margin-bottom: 50px;
                             }
                         }
+
+
                         .button {
                             width: 100%;
                             margin-top: 30px;
+
                             @include minwidth(1300px) {
                                 display: flex;
                                 margin-top: 80px;
-                                // margin-left: -29px;
+                                margin-left: -29px;
                             }
+
                             .btn {
                                 width: 130px;
                                 max-width: 100%;
@@ -442,93 +428,127 @@ h6,
                                 color: #fff;
                                 margin: 10px auto;
                                 transition: .5s all;
+
                                 &:hover {
                                     background-color: #85af4b;
                                     border: none;
+
                                 }
+
                                 @include minwidth(576px) {
                                     margin: 10px 17px;
                                 }
+
                                 @include minwidth(992px) {
                                     width: 150px;
                                     padding: 11px;
                                 }
+
                                 a {
                                     color: #fff;
                                 }
+
                             }
                         }
+
                     }
                 }
             }
         }
+
     }
 }
 
 // TOP_SLIDER_END
+
+
+
 // serviessection_start
+
 .servies_section {
     padding: 30px 0px;
+
     @include minwidth(992px) {
         padding: 110px 0px;
     }
+
+
     .container {
         display: flex;
         flex-wrap: wrap;
+
         .servies_top_section {
             width: 100%;
             display: block;
             justify-content: center;
             margin: auto;
             padding: 0 10px;
+
             @include minwidth(992px) {
                 display: flex;
             }
+
+
             .servies_tl {
                 width: 450px;
                 max-width: 100%;
                 font-size: 36px;
                 margin: auto;
+
                 @include minwidth(992px) {
                     border-right: 2px solid #1455a7;
                 }
+
                 h1,
                 .h1 {
                     font-size: 22px;
                     font-weight: 500;
                     line-height: 1.3;
                     text-align: center;
+
                     @include minwidth(992px) {
                         font-size: 36px;
                         // padding-right: 80px;
                         text-align: start;
                     }
+
                 }
             }
+
             .servies_tr {
                 width: 700px;
                 max-width: 100%;
                 font-size: 14px;
                 padding: 0px 20px;
                 margin: auto;
+
                 @include minwidth(992px) {
                     padding-left: 50px;
+
                 }
+
+
                 p {
                     color: #666666;
                     font-size: 14px;
                     line-height: 1.9;
                     text-align: center;
+
                     @include minwidth(992px) {
                         text-align: start;
                     }
                 }
+
             }
         }
+
         .servies_bottum_section {
+
             @include minwidth(992px) {
                 margin-top: 50px;
             }
+
+
             .image {
                 width: 50px;
                 max-width: 100%;
@@ -536,17 +556,22 @@ h6,
                 margin-top: 17px;
                 margin-bottom: 30px;
             }
+
             .textbox {
                 margin: 0px 15px;
                 text-align: center;
+
                 h2,
                 .h2 {
                     font-size: 16px;
                     font-weight: 500;
+
                     @include minwidth(992px) {
                         font-size: 21px;
                     }
+
                 }
+
                 p {
                     font-size: 14px;
                     line-height: 1.5;
@@ -557,20 +582,26 @@ h6,
 }
 
 // serviessection_END
+
 // project_display_SECTION_START
+
 .project_display_section {
     background-color: #f8fafc;
     padding: 0;
     margin: 0;
+
     .image_box {
         width: 975px;
         max-width: 100%;
         margin-left: auto;
+
         .image {
             width: 750px;
             max-width: 100%;
         }
     }
+
+
     .textbox {
         width: 570px;
         max-width: 100%;
@@ -579,35 +610,46 @@ h6,
         justify-content: center;
         padding: 10px;
         margin: auto;
+
         @include minwidth(992px) {
             padding: 0px;
             margin-top: 158px;
             margin-left: 10px;
             justify-content: left;
         }
+
         .text {
             width: 100%;
+
+
+
             h2 {
                 font-weight: 500;
                 justify-content: center;
                 font-size: 22px;
                 text-align: center;
+
                 @include minwidth(992px) {
                     text-align: start;
                     font-size: 36px;
                     line-height: 1.5;
                 }
             }
+
             p {
                 margin-top: 24px;
                 font-size: 14px;
                 text-align: center;
+
                 @include minwidth(992px) {
                     line-height: 2;
                     text-align: start;
                 }
+
             }
         }
+
+
         .btn {
             width: 160px;
             max-width: 100%;
@@ -615,29 +657,37 @@ h6,
             margin-top: 18px;
             background-color: #e6e6e6;
             border: none;
+
             &:hover {
                 width: 160px;
                 background-color: #85af4b;
             }
+
             @include minwidth(992px) {}
         }
     }
+
+
 }
 
 // PROJECT_DISPLAY_SECTION_END
+
 // NUMBER_COUNTER_SECTION
 .numcont_section {
     background-color: #f8fafc;
     width: 100%;
     padding: 30px;
     margin: auto;
+
     @include minwidth(992px) {
         padding: 100px;
     }
+
     .container {
         width: 1175px !important;
         max-width: 100%;
         margin: auto;
+
         // .glgHpCnt{
         //     @include minwidth(992px){
         //         border-left: 3px solid #FFFFFF;
@@ -647,62 +697,79 @@ h6,
             color: #010101;
             text-align: center;
             margin-bottom: 10px;
+
             p {
                 font-size: 22px;
                 font-weight: 500;
                 margin-bottom: 0px;
+
                 @include minwidth(768px) {
                     font-size: 48px;
                 }
+
             }
+
             .cntspan {
                 font-size: 14px;
                 font-weight: 300;
                 line-height: 1.3;
+
                 @include minwidth(768px) {
                     font-size: 14px;
                 }
+
             }
         }
     }
 }
 
 // NUMBER_COUNTER_SECTION
+
 // ABOUT_SECTION_START
 .aboutsection {
     padding: 30px 0px;
+
     @include minwidth(992px) {
         padding: 125px 0px;
     }
+
     .container {
         padding: 0;
+
         .about_section {
             .textbox {
+
                 @include minwidth(992px) {
                     display: flex;
                 }
+
                 .leftbox {
                     // margin: auto;
                     width: 100%;
                     padding: 20px;
                     text-align: center;
+
                     @include minwidth(992px) {
                         margin-right: 45px;
                         width: 50%;
                         text-align: start;
                     }
+
                     h2,
                     .h2 {
                         font-size: 22px;
+
                         @include minwidth(992px) {
                             font-size: 36px;
                             margin-bottom: 30px;
                         }
                     }
+
                     p {
                         font-size: 14px;
                         line-height: 2.2;
                     }
+
                     .bottom_item {
                         width: 515px;
                         max-width: 100%;
@@ -710,188 +777,247 @@ h6,
                         // align-items: center;
                         justify-content: center;
                         margin: auto;
+
                         @include minwidth(576px) {
                             display: flex;
                         }
+
                         .l_item {
                             width: 100%;
                             display: flex;
                             align-items: center;
                             margin: auto;
+
                             @include minwidth(576px) {
                                 margin: 0;
                             }
+
+
                             .image {
                                 width: 80px;
                                 max-width: 100%;
                                 height: 80px;
                                 background-color: #1455a7;
                                 border-radius: 50%;
+
                                 img {
                                     width: 100%;
                                     height: 100%;
                                     border-radius: 50%;
                                 }
                             }
+
                             .n_title {
                                 margin-left: 30px;
+
                                 h5,
                                 .h5 {
                                     font-size: 14px;
                                     font-weight: 600px;
                                 }
+
                                 h6,
                                 .h6 {
                                     font-size: 12px;
                                 }
                             }
                         }
+
                         .r_item {
                             width: 100%;
                             margin: auto;
+
                             @include minwidth(992px) {
                                 margin-left: auto;
                             }
+
+
                             .singleture {
                                 width: 175px;
                                 max-width: 100%;
                                 margin-left: auto;
+
                                 @include minwidth(992px) {
                                     margin-left: auto;
                                 }
                             }
                         }
                     }
+
+
+
                 }
+
                 .rightbox {
                     width: 100%;
                     padding: 20px;
                     margin: auto;
+
                     @include minwidth(992px) {
                         width: 50%;
                         padding: 0;
                         margin: 0;
                     }
+
+
                     h2 {
                         font-size: 22px;
                         text-align: center;
                         margin-bottom: 30px;
+
                         @include minwidth(992px) {
                             font-size: 36px;
                             text-align: start;
                         }
+
+
+
                     }
+
                     h6 {
                         font-size: 16px;
                     }
                 }
             }
         }
+
     }
 }
 
 // ABOUT_SECTION_END
+
 // CMD_SECTION_START
 .cmdsection {
     justify-content: center;
+
     .bg-image {
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
+
         .overlay {
             background-color: #095ec7c6;
             padding: 25px 0px;
+
             @include minwidth(576px) {
                 padding: 60px 0px;
             }
+
             @include minwidth(992px) {
                 padding: 103px 0px;
             }
+
             .container {
                 .cmd_item {
                     justify-content: center;
                     text-align: center;
                     padding: 10px;
+
                     @include minwidth(992px) {
                         padding: 20px 0px;
+
                     }
+
+
                     h2,
                     .h2 {
                         font-size: 22px;
                         color: #fff;
+
                         @include minwidth(992px) {
                             font-size: 36px;
                             margin-bottom: 30px;
                         }
+
                     }
+
                     p {
                         font-size: 14px;
                         color: #fff;
                     }
+
                     .btn {
                         width: 155px;
                         max-width: 100%;
                         border-radius: 30px;
+
                         background-color: transparent;
                         border: 1px solid #fff;
                         padding-top: 12px;
                         padding-bottom: 12px;
+
                         &:hover {
                             background-color: transparent;
                             border: 1px solid #fff;
                             background-color: #85af4b;
                         }
+
                         @include minwidth(992px) {
                             width: 200px;
                             margin-top: 41px;
                         }
+
                         a {
                             color: #fff;
                         }
                     }
                 }
+
             }
         }
     }
+
+
 }
 
 // CMD_SECTION_END
+
 // PROJECT_SECTION_START
+
 .project_section {
     padding: 30px 0px;
     justify-content: center;
     text-align: center;
+
     @include minwidth(992px) {
         padding: 120px 0px;
     }
+
     .container {
         margin: auto;
+
         h2,
         .h2 {
             font-size: 22px;
             font-weight: 500;
+
             @include minwidth(992px) {
                 font-size: 36px;
                 margin-bottom: 42px;
                 margin-top: -20px;
             }
         }
+
         .scrollbox {
             overflow-x: scroll;
             overflow-y: hidden;
             flex-wrap: unset;
+
             @include minwidth(768px) {
                 flex-wrap: wrap;
             }
+
             @include minwidth(992px) {
                 overflow: unset;
             }
+
             .image {
                 width: 370px;
                 max-width: 100%;
                 margin: auto;
                 // transition: transform 2s;
-                transition: linear 0.2s;
+                transition:  linear 0.2s;
+
                 &:hover {
                     box-shadow: 1px 5px 26px gray;
                 }
@@ -909,22 +1035,32 @@ h6,
 }
 
 // PROJECT_SECTION_END
+
+
 // TESTIMONIAL_SECTION_START
+
 .testimonial {
     .tml_sld {
         width: 100%;
+
         .swiper-slide {
+
             .bg-image {
                 @include background_img();
+
                 .overlay {
                     background-color: #00060d80;
                     padding: 30px 0px;
+
                     @include minwidth(576px) {
                         padding: 70px 0px;
                     }
+
                     @include minwidth(992px) {
                         padding: 145px 0px;
                     }
+
+
                     .textbox {
                         width: 600px;
                         max-width: 100%;
@@ -933,37 +1069,47 @@ h6,
                         text-align: center;
                         margin: auto;
                         padding: 0px 10px;
+
                         @include minwidth(992px) {
                             margin-bottom: 75px;
                         }
+
+
                         h2 {
                             font-size: 22px;
+
                             @include minwidth(992px) {
                                 font-size: 36px;
                                 margin-bottom: 70px;
                             }
+
                         }
+
                         p {
                             font-size: 16px;
                             margin-bottom: 60px;
                         }
+
                         .image {
                             width: 60px;
                             max-width: 100%;
                             height: 60px;
                             border-radius: 50%;
                             margin: auto;
+
                             img {
                                 width: 100%;
                                 height: 100%;
                                 border-radius: 50%;
                             }
                         }
+
                         h6,
                         .h6 {
                             font-size: 14px;
                             font-weight: 500;
                             margin-top: 25px;
+
                         }
                     }
                 }
@@ -973,77 +1119,103 @@ h6,
 }
 
 // TESTIMONIAL_SECTION_END
+
+
 // TEAM_SECTION_START
+
 .teamsection {
     padding: 50px 30px;
+
     @include minwidth(576px) {
         padding: 60px 60px;
     }
+
     @include minwidth(992px) {
         padding: 120px 0px;
     }
+
     .container {
         justify-content: center;
+
+
         h1,
         .h1 {
             font-size: 22px;
             font-weight: 500;
             text-align: center;
+
             margin-top: -6px;
+
             @include minwidth(992px) {
                 font-size: 36px;
                 margin-bottom: 37px;
             }
         }
+
         .scrollbox {
             overflow-x: scroll;
             overflow-y: hidden;
             flex-wrap: unset;
+
             @include minwidth(992px) {
                 overflow: unset;
             }
+
             .image {
                 width: 270px;
                 max-width: 100%;
                 height: auto;
                 margin: auto;
+
                 // @include minwidth(576px) {
                 //     margin: 0;
                 // }
+
             }
+
             .textbox {
                 text-align: center;
                 padding: 0px 10px;
+
                 @include minwidth(576px) {
                     text-align: start;
                     padding: 0;
+
                 }
+
                 h2 {
                     font-size: 18px;
                     margin: 20px 0px;
                 }
+
                 h6 {
                     font-size: 12px;
                     color: #bbbbbb;
                     margin-top: -10px;
                     margin-bottom: 22px;
                 }
+
                 p {
                     font-size: 14px;
                     margin-bottom: -4px;
                 }
             }
+
             .socialbox {
                 display: flex;
                 flex-wrap: wrap;
                 justify-content: center;
+
                 @include minwidth(576px) {
                     justify-content: start;
                 }
+
                 ul {
                     display: flex;
+
                     li {
                         margin: 15px;
+
                         .icon {
                             i {
                                 width: 15px;
@@ -1054,35 +1226,49 @@ h6,
                 }
             }
         }
+
     }
 }
 
 // TEAM_SECTION_END
+
+
+
 // PARTNER_SECTION_START
 .partersection {
     background-color: #f8f8f8;
+
     .container {
         .scrollbox {
             overflow-x: scroll;
             overflow-y: hidden;
+
             @include minwidth(992px) {
                 overflow: unset;
             }
+
             .innerbox {
                 width: 700px;
                 padding-top: 70px;
                 padding-bottom: 70px;
+
                 @include minwidth(992px) {
                     width: 100%;
                 }
+
                 ul {
                     display: flex;
                     margin: auto;
+
                     li {
+
                         margin-left: 100px;
+
                         @include minwidth(992px) {
                             margin-left: 183px;
                         }
+
+
                         &:first-child {
                             margin-left: 0px;
                         }
@@ -1090,43 +1276,59 @@ h6,
                 }
             }
         }
+
     }
+
+
 }
 
+
 // PARTNER_SECTION_END
+
+
 // FOOTER_SECTION_START
 .footersection {
     background-color: #02295a;
     padding: 40px 0px;
+
     @include minwidth(992px) {
         padding: 90px 0px;
     }
+
     .container {
+
         .itembox {
             justify-content: center;
             align-items: center;
             padding: 0px 30px;
             text-align: center;
+
             @include minwidth(576px) {
                 text-align: start;
             }
+
+
             h2,
             .h2 {
                 font-size: 16px;
                 color: #fff;
                 font-weight: 500px;
             }
+
             p {
                 color: #bbbbbb;
                 font-size: 13px;
             }
+
             .itemes {
                 display: flex;
                 margin-bottom: 20px;
+
                 .image {
                     width: 72px;
                     height: 72px;
                 }
+
                 .text {
                     width: 237px;
                     max-width: 100%;
@@ -1135,53 +1337,68 @@ h6,
                     margin-left: 20px;
                 }
             }
+
+
             .socialbox {
                 ul {
                     display: flex;
                     flex-wrap: wrap;
                     justify-content: center;
+
                     @include minwidth(576px) {
                         justify-content: left;
                     }
+
                     li {
                         margin: 6px;
+
                         .icon {
                             width: 40px;
                             max-width: 100%;
                             height: 40px;
                             min-width: 100%;
+
                             border-radius: 50%;
                             justify-content: center;
                             display: flex;
+
                             a {
                                 display: flex;
+
                                 i {
                                     width: 100%;
                                     // padding: 10px;
                                     color: #fff;
                                     margin: 10px;
+
                                 }
                             }
+
                         }
                     }
                 }
             }
+
             .img_text {
                 width: 325px;
                 max-width: 100%;
                 margin: auto;
                 text-align: start;
+
                 @include minwidth(576px) {
                     margin: 0;
                 }
             }
+
             .btn_text {
                 width: 270px;
                 max-width: 100%;
                 margin: auto;
+
                 @include minwidth(576px) {
                     margin: 0;
                 }
+
                 .btn {
                     width: 150px;
                     max-width: 100%;
@@ -1189,36 +1406,44 @@ h6,
                     padding: 5px 0px;
                     margin: 10px auto;
                     font-size: 14px;
+
                     @include minwidth(576px) {
                         width: 270px;
                         margin: 10px 0px;
                         padding: 20px 0px;
                     }
+
                 }
             }
+
+
         }
     }
 }
 
 // FOOTER_SECTION_END
 
-/* -- ----------ABOUT_PAGE_START--------- --*/
 
+/* -- ----------ABOUT_PAGE_START--------- --*/
 .at_box {
     margin: auto !important;
+
 }
 
 .aboutsection {
     padding-bottom: 0px;
+
     @include minwidth(992px) {
         padding-bottom: 125px;
     }
+
     .rightbox {
         .video {
             width: 570px;
             max-width: 100%;
             // padding: 140px 0px;
             position: relative;
+
             .overlay {
                 width: 100%;
                 height: 100%;
@@ -1228,6 +1453,8 @@ h6,
                 display: flex;
                 position: absolute;
                 top: 0px;
+
+
                 .video_logo {
                     width: 60px;
                     max-width: 100%;
@@ -1251,18 +1478,17 @@ h6,
 
 
 /* -- ----------PROJECT_PAGE_START--------- --*/
-
-
 /* -- ----------PROJECT_PAGE_END--------- --*/
 
 
-/* -- ----------BLOG_PAGE_START--------- --*/
 
+/* -- ----------BLOG_PAGE_START--------- --*/
 .blog {
     @include minwidth(992px) {
         padding-top: 130px !important;
         padding-bottom: 163px !important;
     }
+
     .textbox {
         padding: 0px !important;
     }
@@ -1270,34 +1496,44 @@ h6,
 
 .blog_section {
     padding: 30px 0px;
+
     @include minwidth(992px) {
         padding: 77px 0px;
     }
+
     .viewblog {
+
         justify-content: space-between;
+
         @include minwidth(1200px) {
             display: flex;
         }
+
         .left_section {
             width: 770px;
             max-width: 100%;
             margin: auto;
+
             h1,
             .h1 {
                 font-size: 22px;
                 font-weight: 500px;
                 margin-top: 39px;
                 margin-bottom: 25px;
+
                 @include minwidth(992px) {
                     font-size: 24px;
                 }
             }
+
             .caption {
                 p {
                     font-size: 14px;
                     color: #7a7a7a;
+
                 }
             }
+
             .bottom_r_bar {
                 width: 100%;
                 padding: 15px 20px;
@@ -1308,144 +1544,188 @@ h6,
                 margin-bottom: 60px;
                 justify-content: center;
                 flex-wrap: wrap;
+
                 ul {
                     @include minwidth(768px) {
                         display: flex;
                     }
+
                     li {
                         @include minwidth(768px) {
                             margin-right: 25px;
                         }
+
+
                         h6,
                         .h6 {
                             font-size: 12px;
                             color: #999999;
+
                             i {
                                 color: #095dc7;
                             }
                         }
                     }
                 }
+
                 .r_more {
                     margin-left: auto;
+
                     a {
                         color: #000;
                     }
                 }
+
             }
+
         }
+
         .right_section {
             width: 345px;
             max-width: 100%;
             // display: none;
             margin: 0px auto;
+
             @include minwidth(576px) {
+
                 // border: 1px solid #000;
                 position: sticky;
                 align-self: flex-start;
                 top: 0;
             }
+
+
             h2,
             .h2 {
                 font-size: 16px;
                 text-align: start;
                 font-weight: 500px;
+
                 @include minwidth(992px) {
                     font-size: 20px;
                 }
             }
+
             hr,
             .hr {
                 width: 50px;
                 border: 3px solid blue;
                 // color: #095dc7;
             }
+
             p {
                 font-size: 14px;
                 color: #7a7a7a;
+
                 i {
                     color: #095dc7;
                 }
             }
+
             .iteme {
                 display: flex;
                 justify-content: space-between;
                 margin: 10px 0px;
+
                 .image {
                     width: 100px;
                     max-width: 100%;
                 }
+
                 .text {
                     width: 194px;
                     max-width: 100%;
+
                     p {
                         font-size: 12px;
                     }
                 }
             }
+
             .brand_add {
                 width: 300px;
                 max-width: 100%;
                 margin: auto;
                 padding: 60px 0px;
             }
+
+
         }
     }
 }
 
-
 /* -- ----------BLOG_PAGE_END--------- --*/
 
 
-/* -- ----------CONTACT_PAGE_START--------- --*/
 
+
+
+
+
+/* -- ----------CONTACT_PAGE_START--------- --*/
 .Contact_section {
     text-align: center;
     padding: 35px 0px;
+
     @include minwidth(992px) {
         padding: 115px 0px;
+
     }
+
     .icon {
         font-size: 50px;
         color: #095dc7;
+
         @include minwidth(992px) {
             margin-bottom: 50px;
         }
+
     }
+
     p {
+
         font-size: 14px;
         color: #666666;
+
         @include minwidth(992px) {
             margin-top: 30px;
             margin-bottom: 40px;
         }
     }
+
     h2,
     .h2 {
         font-size: 16px;
         font-weight: 500;
+
         @include minwidth(992px) {
             font-size: 21px;
         }
     }
+
 }
 
 // contract_from
+
 .contract_from {
     padding: 30px 0px;
     background-color: #f8fafc;
+
     @include minwidth(992px) {
         padding: 120px 0px;
     }
+
     h1,
     .h1 {
         font-size: 22px;
         font-weight: 500px;
         text-align: center;
+
         @include minwidth(992px) {
             font-size: 36px;
         }
     }
+
     .form {
         width: 770px;
         max-width: 100%;
@@ -1456,26 +1736,26 @@ h6,
 
 /* -- ----------CONTACT_PAGE_END--------- --*/
 
-
 /*-- ----------CONTACT_FORM_SECTION_END--------- --*/
 
-
 /*-- ----------GOOGLE_MAP_SECTION_START--------- --*/
-
 .googlemap {
     iframe {
         width: 100%;
     }
 }
 
-
 /*-- ----------GOOGLE_MAP_SECTION_END--------- --*/
+
+
+
 
 .content {
     display: flex;
     justify-content: space-around;
     align-items: center;
     background: #030303;
+
 }
 
 .value {
@@ -1485,14 +1765,17 @@ h6,
     color: #fff;
 }
 
+
 // LEARNMORE
 .learnmore {
     p {
         font-size: 16px;
+
         @include minwidth(992px) {
             font-size: 18px;
         }
     }
+
     .bottom_r_bar {
         width: 100%;
         padding: 15px 20px;
@@ -1503,18 +1786,23 @@ h6,
         margin-bottom: 60px;
         justify-content: center;
         flex-wrap: wrap;
+
         ul {
             @include minwidth(768px) {
                 display: flex;
             }
+
             li {
                 @include minwidth(768px) {
                     margin-right: 25px;
                 }
+
+
                 h6,
                 .h6 {
                     font-size: 12px;
                     color: #999999;
+
                     i {
                         color: #095dc7;
                     }
